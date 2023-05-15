@@ -1,2 +1,2 @@
-# Interview Prep
+# My solutions on HackerRank, LeetCode and Coding Exercises
  
