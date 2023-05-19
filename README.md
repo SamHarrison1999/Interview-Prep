@@ -51,3 +51,4 @@
 - [The K Weakest Rows in a Matrix](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/The%20K%20Weakest%20Rows%20in%20a%20Matrix/src/Solution.java)
 - [TwoSum](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/TwoSum/src/Solution.java)
 - [Valid Palindrome](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Valid%20Palindrome/src/Solution.java)
+- [Kids With the Greatest Number of Candies](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Kids%20With%20the%20Greatest%20Number%20of%20Candies/src/Solution.java)
