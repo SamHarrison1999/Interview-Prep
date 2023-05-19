@@ -24,6 +24,7 @@
 - [timeConversion](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/timeConversion/src/Solution.java)
 - [Java 1D Array](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/Java%201D%20Array/src/Solution.java)
 - [Java Instanceof keyword](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/Java%20Instanceof%20keyword/src/InstanceOFTutorial.java)
+- [Java Currency Formatter](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/Java%20Currency%20Formatter/src/Solution.java)
 
 # My LeetCode Solutions
 - [Best Time to Buy and Sell Stock](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Best%20Time%20to%20Buy%20and%20Sell%20Stock/src/Solution.java)
