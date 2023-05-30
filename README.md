@@ -56,3 +56,4 @@
 - [Can Place Flowers](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Can%20Place%20Flowers/src/Solution.java)
 - [Kth Largest Element in an Array](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Kth%20Largest%20Element%20in%20an%20Array/src/Solution.java)
 - [Single Number](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Single%20Number/src/Solution.java)
+- [Pascal's Triangle](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Pascal's%20Triangle/src/Solution.java)
