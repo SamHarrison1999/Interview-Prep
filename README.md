@@ -57,3 +57,8 @@
 - [Kth Largest Element in an Array](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Kth%20Largest%20Element%20in%20an%20Array/src/Solution.java)
 - [Single Number](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Single%20Number/src/Solution.java)
 - [Pascal's Triangle](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Pascal's%20Triangle/src/Solution.java)
+- [Happy Number](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Happy%20Number/src/Solution.java)
+- [Pascal's Triangle II](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Pascal's%20Triangle%20II/src/Solution.java)
+- [Plus One](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Plus%20One/src/Solution.java)
+- [Pow(x, n)](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Pow(x%2C%20n)/src/Solution.java)
+- [Add Binary](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Add%20Binary/src/Solution.java)
