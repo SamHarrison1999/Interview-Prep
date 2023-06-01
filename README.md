@@ -62,3 +62,4 @@
 - [Plus One](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Plus%20One/src/Solution.java)
 - [Pow(x, n)](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Pow(x%2C%20n)/src/Solution.java)
 - [Add Binary](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Add%20Binary/src/Solution.java)
+- [Search Insert Position](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Search%20Insert%20Position/src/Solution.java)
