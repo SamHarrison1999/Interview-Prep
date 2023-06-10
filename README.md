@@ -64,3 +64,5 @@
 - [Add Binary](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Add%20Binary/src/Solution.java)
 - [Search Insert Position](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Search%20Insert%20Position/src/Solution.java)
 - [Reverse String](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Reverse%20String/src/Solution.java)
+- [Excel Sheet Column Title](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Excel%20Sheet%20Column%20Title/src/Solution.java)
+- [Valid Parentheses](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Valid%20Parentheses/src/Solution.java)
