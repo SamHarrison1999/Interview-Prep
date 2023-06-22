@@ -26,6 +26,14 @@
 - [Java Instanceof keyword](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/Java%20Instanceof%20keyword/src/InstanceOFTutorial.java)
 - [Java Currency Formatter](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/Java%20Currency%20Formatter/src/Solution.java)
 - [Zig Zag Sequence](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/Zig%20Zag%20Sequence/src/Main.java)
+- [Java Abstract Class](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/Java%20Abstract%20Class/src/Main.java)
+- [Java BigInteger](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/Java%20BigInteger/src/Solution.java)
+- [Java Hashset](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/Java%20Hashset/src/Solution.java)
+- [Java Inheritance I](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/Java%20Inheritance%20I/src/Solution.java)
+- [Java Inheritance II](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/Java%20Inheritance%20II/src/Solution.java)
+- [Java Iterator](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/Java%20Iterator/src/Main.java)
+- [Java Method Overriding 2 (Super Keyword)](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/Java%20Method%20Overriding%202%20(Super%20Keyword)/src/Solution.java)
+- [Java Method Overriding](https://github.com/SamHarrison1999/Interview-Prep/blob/main/HackerRank/Java%20Method%20Overriding/src/Solution.java)
 
 # My LeetCode Solutions
 - [Best Time to Buy and Sell Stock](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Best%20Time%20to%20Buy%20and%20Sell%20Stock/src/Solution.java)
@@ -66,3 +74,7 @@
 - [Reverse String](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Reverse%20String/src/Solution.java)
 - [Excel Sheet Column Title](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Excel%20Sheet%20Column%20Title/src/Solution.java)
 - [Valid Parentheses](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Valid%20Parentheses/src/Solution.java)
+- [Merge Two Sorted Lists](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Merge%20Two%20Sorted%20Lists/src/Solution.java)
+- [Reverse Vowels of a String](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Reverse%20Vowels%20of%20a%20String/src/Solution.java)
+- [Running Sum of 1d Array](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Running%20Sum%20of%201d%20Array/src/Solution.java)
+- [Smallest Even Multiple](https://github.com/SamHarrison1999/Interview-Prep/blob/main/Leetcode/Smallest%20Even%20Multiple/src/Solution.java)
